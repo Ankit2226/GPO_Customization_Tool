@@ -3,3 +3,4 @@ tkinter
 pywin32
 pandas
 psutil==6.0.0
+reportlab

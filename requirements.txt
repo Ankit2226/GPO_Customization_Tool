@@ -1,0 +1,5 @@
+fpdf==1.7.2
+tkinter
+pywin32
+pandas
+psutil==6.0.0
